@@ -7,15 +7,15 @@ public class Practice4 {
 
         initialBalance = initialBalance * INTEREST;
 
-        System.out.print("First Month:" + initialBalance);
+        System.out.println("First Month:" + initialBalance);
 
         initialBalance = initialBalance * INTEREST;
 
-        System.out.print("Second Month:" + initialBalance);
+        System.out.println("Second Month:" + initialBalance);
 
         initialBalance = initialBalance * INTEREST;
 
-        System.out.print("Third Month:" + initialBalance);
+        System.out.println("Third Month:" + initialBalance);
 
 
     }
